@@ -76,7 +76,7 @@ A login page might include a username input field, a password field, a “Rememb
 
 Understanding these elements ensures that every page of your website or application is **intuitive, usable, and user-friendly** before investing in visual design or development.
 
-## 🧾 Types of Wireframes
+## Types of Wireframes
 
 Wireframes come in different levels of detail depending on the phase of the design process. The two most common types are:
 
