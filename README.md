@@ -232,7 +232,44 @@ Clients and business stakeholders often find it easier to review a wireframe tha
 
 📌 **Example:** Presenting a wireframe of the payment flow allows stakeholders to visualize how the process works and suggest improvements before development begins.
 
+
+## 🧪 Real-World Scenario: How Wireframing Prevented Usability Issues
+
+### Scenario: Hotel Booking Dashboard (Tour Management System)
+
+During the early design phase of a **national park tour booking dashboard**, a low-fidelity wireframe was created in Figma. The wireframe included screens for:
+
+- Viewing available tours
+- Selecting date and number of participants
+- Entering payment details
+- Booking confirmation
+
+### 🧩 Identified Usability Issue:
+
+During review, stakeholders noticed that the **"Continue" button** for navigating between steps was placed inconsistently — on some screens it appeared at the top right, on others at the bottom center. Additionally, users had to scroll to access key action buttons, which wasn’t ideal for mobile users.
+
+### 🛠️ Resolution:
+
+Thanks to the wireframe:
+
+- The team standardized the **CTA (Call-to-Action) button placement** to always appear at the bottom of each page.
+- Spacing and alignment were adjusted to reduce the need for excessive scrolling on smaller screens.
+- A **progress indicator** was added to show users where they were in the booking process.
+
+These changes were made **before** any code was written — saving time, reducing rework, and improving the user experience significantly.
+
+### ✅ Impact on the Final Product:
+
+- Users found the booking process intuitive and consistent across devices.
+- Fewer user errors were reported during testing.
+- The UI development team was able to implement a clear layout quickly without guessing user flow.
+
 ---
 
-In summary, wireframes help reduce risks, increase team efficiency, and ensure that the final product meets both business and user expectations.
+### 🧭 Conclusion: The Role of Wireframing in User-Friendly Design
 
+Wireframing serves as a **critical pre-development checkpoint**. It brings visual clarity to project goals, aligns teams early, and surfaces usability problems before they become expensive to fix.
+
+By identifying navigation and layout issues early, wireframing helped this project deliver a cleaner, more accessible user interface. In every successful software project, wireframes are not optional — they are **foundational**.
+
+ "Designing before coding is not just smart—it's strategic."
