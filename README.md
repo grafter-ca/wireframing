@@ -76,3 +76,59 @@ A login page might include a username input field, a password field, a “Rememb
 
 Understanding these elements ensures that every page of your website or application is **intuitive, usable, and user-friendly** before investing in visual design or development.
 
+## 🧾 Types of Wireframes
+
+Wireframes come in different levels of detail depending on the phase of the design process. The two most common types are:
+
+---
+
+### 📉 Low-Fidelity Wireframes
+
+These are **basic sketches or grayscale layouts** that focus on layout and structure rather than design aesthetics. They are usually created using simple lines, boxes, and placeholder text.
+
+🔹 **When to Use:**
+- Early stages of the design process
+- Brainstorming or ideation
+- Validating layout and user flows
+
+🔹 **Benefits:**
+- Fast to create and easy to modify
+- Encourages feedback on structure before aesthetics
+
+---
+
+### 🎨 High-Fidelity Wireframes
+
+These are **detailed and polished representations** of the interface. They include typography, actual content, colors, spacing, icons, and even basic interactivity.
+
+🔹 **When to Use:**
+- Later stages of the design process
+- Preparing for developer handoff
+- Conducting realistic usability testing
+
+🔹 **Benefits:**
+- Presents a near-final design experience
+- Clarifies precise behavior of UI elements
+
+---
+
+## Types of Wireframes
+
+### Based On Case Study: Figma Wireframe Example
+
+**Figma Link:** [Project Airbnb Wireframe](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=SbRFRA7bGt2cZTyS-0)
+
+Based on the visuals and content from the shared Figma file, this wireframe is classified as:
+
+### ✅ **High-Fidelity Wireframe**
+
+**Why?**
+- It contains actual UI elements like buttons, cards, images, and text.
+- The layout closely resembles a final version of the application.
+- It showcases real branding, typography, and responsive components.
+
+**Use Case:** This high-fidelity wireframe is ideal for presenting to stakeholders, conducting usability testing, or preparing for front-end implementation.
+
+---
+
+
