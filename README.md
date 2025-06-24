@@ -131,4 +131,61 @@ Based on the visuals and content from the shared Figma file, this wireframe is c
 
 ---
 
+## 🛠️ Popular Wireframing Tools
+
+Wireframing is made easier with the help of intuitive, collaborative design tools. Below are some widely used wireframing tools in the industry:
+
+---
+
+### 1. 🟣 **Figma** – *Recommended*
+
+**Figma** is a powerful, cloud-based design tool used for wireframing, prototyping, and interface design.
+
+**Key Features:**
+- Real-time collaboration with team members
+- Pre-built wireframe components and UI kits
+- Interactive prototyping capabilities
+- Accessible from any device via browser
+- Version history and comment threads for feedback
+
+**Why It's Great for Wireframing:**
+Figma allows designers and developers to work together in real time, making it ideal for team-based projects. Its drag-and-drop simplicity, reusable components, and seamless sharing features make it one of the best tools for creating both low-fidelity and high-fidelity wireframes.
+
+🔗 [Visit Figma](https://www.figma.com/)
+
+---
+
+### 2. 🔵 **Balsamiq**
+
+A rapid wireframing tool that mimics sketching on a whiteboard, perfect for low-fidelity designs.
+
+- Great for early brainstorming
+- Simple, user-friendly interface
+- Emphasizes structure over visuals
+
+---
+
+### 3. 🟠 **Adobe XD**
+
+Adobe’s UI/UX design tool that supports wireframing, prototyping, and design handoff.
+
+- High-fidelity wireframing and animations
+- Integration with other Adobe products
+- Strong community and plugin support
+
+---
+
+### 4. 🟡 **Sketch** (macOS only)
+
+A vector-based design tool ideal for high-fidelity UI design and wireframing.
+
+- Clean interface
+- Strong library of plugins
+- Commonly used in professional design workflows
+
+---
+
+These tools help streamline the wireframing process and are crucial in designing user-centered digital experiences.
+
+
 
